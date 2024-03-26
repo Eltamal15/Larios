@@ -1,0 +1,23 @@
+.Columna{
+    background-color: firebrick;
+    color: azure;
+    margin: 0 auto;
+    padding: 16%;
+    border-radius: 5%;
+    box-shadow: 10px 10px 6px #888;   
+
+}
+
+h3{
+    color: burlywood;
+}
+
+p{
+    color: black;
+    font-size: xx-large;
+}
+
+a{
+    color: cyan;
+    font-size: xx-large;
+}
